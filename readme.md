@@ -1,5 +1,5 @@
 # Calculator Project Setup
-[![Build Status][![Build Status](https://app.travis-ci.com/MysticIS218/calc_example.svg?branch=main)](https://app.travis-ci.com/MysticIS218/calc_example)
+[![Build Status][![Build Status](https://app.travis-ci.com/MysticIS218/calc_example.svg?branch=part5)](https://app.travis-ci.com/MysticIS218/calc2)
 
 To run tests, Lint, and Coverage report use this command:
 
